@@ -1,0 +1,1 @@
+This is an implementation of the TRANAD model, based on the paper https://arxiv.org/abs/2201.07284 and the code found on https://github.com/imperial-qore/TranAD. The dataset along with its description that was used for the experiment can be found on https://www.kaggle.com/competitions/nyc-taxi-trip-duration/.
